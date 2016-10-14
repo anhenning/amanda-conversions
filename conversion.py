@@ -11,7 +11,7 @@ def hours2minutes(hours):
 	return minutes
 
 def feet2inches(feet):
-	inches = feet * 12
+	inch = feet * 12
 	return inches
 
 def degrees2radians(degrees):
