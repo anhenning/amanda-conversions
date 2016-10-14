@@ -15,7 +15,8 @@ def feet2inches(feet):
 	return inches
 
 def degrees2radians(degrees):
-	radians = degrees * 0.0174533
-	return radians
+	radian = degrees * 0.0174533
+	return radian
+
 
 
