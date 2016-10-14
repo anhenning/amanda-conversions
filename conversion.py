@@ -18,5 +18,4 @@ def degrees2radians(degrees):
 	radian = degrees * 0.0174533
 	return radian
 
-####
 
