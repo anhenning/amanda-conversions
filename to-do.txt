@@ -6,3 +6,5 @@ Conversion functions needed:
 - Feet to inches
 - Degrees to radians
 
+create multiple functions for conversions
+
