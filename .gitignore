@@ -1,3 +1,5 @@
 *.dat
 results/
+log_*.txt
+!log_01.txt
 
